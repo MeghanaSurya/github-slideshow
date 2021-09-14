@@ -2,7 +2,7 @@ let fun fib(n)=
 let val c=0 in 
 let val a=0 in 
 let val b=1 in
-let val x=n in
+let c=i
 {
 while 0<x do
 {
